@@ -1,0 +1,25 @@
+{
+    "conditions": [
+      {
+        "name": "Sydney, Australia",
+        "imageUrl": "sydney_beach.jpg",
+        "symptoms": ["Fatigue", "Weight gain or loss", "Dry skin"],
+        "prevention": ["Balanced diet", "Regular exercise"],
+        "treatment": "Medication like levothyroxine."
+      },
+      {
+        "name": "Diabetes",
+        "imagesrc": "diabetes.jpg",
+        "symptoms": ["Increased thirst", "Frequent urination", "Blurred vision"],
+        "prevention": ["Healthy weight", "Physical activity"],
+        "treatment": "Insulin or other medications."
+      },
+      {
+        "name": "High Blood Pressure",
+        "imagesrc": "blood_pressure.jpg",
+        "symptoms": ["Headaches", "Shortness of breath", "Nosebleeds"],
+        "prevention": ["Reduce salt", "Manage stress"],
+        "treatment": "Lifestyle changes and medication."
+      }
+    ]
+  }
